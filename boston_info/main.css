@@ -1,0 +1,11 @@
+#main { 
+	height: 150px;
+	width: 200px;
+	font-family: helvetica;
+	font-size: 18px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}

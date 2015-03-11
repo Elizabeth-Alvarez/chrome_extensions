@@ -1,0 +1,20 @@
+{
+	"name" : "Boston Terrie Goodness",
+
+	"description" : "Need a quick reminder of Leila",
+
+	"omnibox" : {
+	"keyword" : "leila"
+},
+
+"background" : {
+		"scripts" : ["background.js"]
+	},
+
+
+	"version" : "1.0",
+	"manifest_version" : 2
+
+
+	
+}
